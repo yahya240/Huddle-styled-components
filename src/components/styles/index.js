@@ -1,0 +1,6 @@
+export {default as Container} from './Container_styled'
+export {default as GlobalStyles} from './Global'
+export {default as Flex} from './Flex_styled'
+export {default as StyledCard} from './Card_styled'
+export {default as StyledFooter} from './Footer_styled'
+export {default as StyledSoical} from './Social_styled'
